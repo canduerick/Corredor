@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
-$db = 'corredores';
-$user = 'joaquim';
+$db = 'corredor';
+$user = 'candu';
 $pass = '123';
 $port = 3307; // Defina a porta que você está usando
 
